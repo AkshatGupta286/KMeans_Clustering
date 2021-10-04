@@ -1,4 +1,4 @@
-# KMeans_Clustering
+# KMeans Clustering
 
 ## Overview
 In this work, I have written the KMeans Clustering Algorithm. The main key point in performance of KMeans is the number of clusters and position of initial centroids. In this work, I have compared the performance of KMeans Clustering Algorithm with two different centroid initialization strategies on different number of clusters (2-10).
